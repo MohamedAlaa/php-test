@@ -7,10 +7,9 @@ https://www.homegate.ch/mieten/immobilien/kanton-zuerich/trefferliste?ep=1
 
  
 
-a. Get only the links that have an ID in their URL like in the example below
+ > a. Get only the links that have an ID in their URL like in the example below
  
 
-'''
 Example:
 https://www.homegate.ch/mieten/108824868
 '''
@@ -20,7 +19,7 @@ Info: They are up to 20x of these links on the given page
 
  
 
-b. When you get the 20x links on the URL  https://www.homegate.ch/mieten/immobilien/kanton-zuerich/trefferliste?ep=1 then try to move to the next Page by counting up the last number in the URL and try to get the links described under «a» again
+ > b. When you get the 20x links on the URL  https://www.homegate.ch/mieten/immobilien/kanton-zuerich/trefferliste?ep=1 then try to move to the next Page by counting up the last number in the URL and try to get the links described under «a» again
  
 
 Example:
@@ -41,7 +40,7 @@ https://www.newhome.ch/de/kaufen/suchen/haus_wohnung/kanton_zuerich/liste.aspx?p
 
  
 
-a. Get only the links that have an ID in their URL like in the example below
+ >  a. Get only the links that have an ID in their URL like in the example below
  
 
 Example:
@@ -54,7 +53,7 @@ Info: This homepage has a bot protection and you can get blocked by it. Try to b
 
  
 
-b. When you get the 20x links on the URL  https://www.homegate.ch/mieten/immobilien/kanton-zuerich/trefferliste?ep=1 then try to move to the next Page by counting up the last number in the URL and try to get the links described under «a» again
+ > b. When you get the 20x links on the URL  https://www.homegate.ch/mieten/immobilien/kanton-zuerich/trefferliste?ep=1 then try to move to the next Page by counting up the last number in the URL and try to get the links described under «a» again
  
 
 Example:
