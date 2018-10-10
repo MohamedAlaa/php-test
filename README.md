@@ -12,7 +12,7 @@ a. Get only the links that have an ID in their URL like in the example below
 
 Example:
 
-https://www.homegate.ch/mieten/108824868
+https://www.homegate.ch/mieten/'108824868'
 
  
 
