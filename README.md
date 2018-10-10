@@ -24,7 +24,7 @@ Info: They are up to 20x of these links on the given page
 
 Example:
 
-https://www.homegate.ch/mieten/immobilien/kanton-zuerich/trefferliste?ep=2
+https://www.homegate.ch/mieten/immobilien/kanton-zuerich/trefferliste?ep= `2`
 
  
 
@@ -45,7 +45,7 @@ https://www.newhome.ch/de/kaufen/suchen/haus_wohnung/kanton_zuerich/liste.aspx?p
 
 Example:
 
-https://www.newhome.ch/de/kaufen/immobilien/haus/bauernhaus/ort_effretikon/5.0_zimmer/detail.aspx?pc=new&id=N875&liste=1
+https://www.newhome.ch/de/kaufen/immobilien/haus/bauernhaus/ort_effretikon/5.0_zimmer/detail.aspx?pc=new& `id=N875` &liste=1
 
  
 
@@ -58,6 +58,6 @@ Info: This homepage has a bot protection and you can get blocked by it. Try to b
 
 Example:
 
-https://www.newhome.ch/de/kaufen/suchen/haus_wohnung/kanton_zuerich/liste.aspx?p=2
+https://www.newhome.ch/de/kaufen/suchen/haus_wohnung/kanton_zuerich/liste.aspx?p= `2`
 
  
