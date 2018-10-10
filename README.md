@@ -7,7 +7,7 @@ https://www.homegate.ch/mieten/immobilien/kanton-zuerich/trefferliste?ep=1
 
  
 
-    a. Get only the links that have an ID in their URL like in the example below
+      a. Get only the links that have an ID in their URL like in the example below
  
 
 Example:
