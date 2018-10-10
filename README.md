@@ -11,7 +11,7 @@ https://www.homegate.ch/mieten/immobilien/kanton-zuerich/trefferliste?ep=1
  
 
 Example:
-https://www.homegate.ch/mieten/`108824868`
+https://www.homegate.ch/mieten/ `108824868`
 
  
 
